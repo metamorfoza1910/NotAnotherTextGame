@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 2041288448}
+  startingState: {fileID: 11400000, guid: 2ab1703d70de86545a8ca936c967fe79, type: 2}
   GameText: You wake up from the long coma, not knowing what happened.
 --- !u!4 &414019828
 Transform:

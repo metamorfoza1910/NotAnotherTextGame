@@ -16,3 +16,6 @@ MonoBehaviour:
     wake up to the sound of some alarm ringing and blinding red lights.\r\nMy vision
     is blurred and it seems that I'm inside a CryoSleep chamber.\r\n\r\nWhat should
     I do?\r"
+  nextStates:
+  - {fileID: 11400000, guid: 184219c93a4a22847b94f228556040c5, type: 2}
+  - {fileID: 11400000, guid: c79ef288464af8a4fad4ab9f8dc8a66f, type: 2}
