@@ -12,7 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75e999d11242f364c94ecc30127402c0, type: 3}
   m_Name: State_2.1
   m_EditorClassIdentifier: 
-  StoryText: "After some time it's getting cold here, and i think i would freeze
-    up any second.\r\nWhen I tried to get out of the chamber i slipped and twisted
-    my ankle.\r\nRubbing my leg i scanned my surroundings and thinked of my next
-    step.\r\n\r"
+  StoryText: 'After some time it''s getting cold here, and i think i would freeze
+    up any second.
+
+    When I tried to get out of the chamber i slipped and twisted
+    my ankle.
+
+    Rubbing my leg i scanned my surroundings and thinked of my next
+    step.
+
+    
+
+    1. Search the entire room.
+
+    2. Try to find exit.
+
+'
+  nextStates: []

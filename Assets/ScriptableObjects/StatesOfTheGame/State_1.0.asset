@@ -12,10 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75e999d11242f364c94ecc30127402c0, type: 3}
   m_Name: State_1.0
   m_EditorClassIdentifier: 
-  StoryText: "Darkness. And at the end of darkness a little bright light awaits.\r\nI
-    wake up to the sound of some alarm ringing and blinding red lights.\r\nMy vision
-    is blurred and it seems that I'm inside a CryoSleep chamber.\r\n\r\nWhat should
-    I do?\r"
+  StoryText: 'Darkness. And at the end of darkness a little bright light awaits.
+
+    I
+    wake up to the sound of some alarm ringing and blinding red lights.
+
+    My
+    vision is blurred and it seems that I''m inside a CryoSleep chamber.
+
+    
+
+    What
+    should I do?
+
+    
+
+    1. Stay in the chamber.
+
+    2. Try to get out.'
   nextStates:
   - {fileID: 11400000, guid: 184219c93a4a22847b94f228556040c5, type: 2}
   - {fileID: 11400000, guid: c79ef288464af8a4fad4ab9f8dc8a66f, type: 2}
